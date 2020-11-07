@@ -1,0 +1,20 @@
+{
+  "two": {
+    "version": "1.0"
+  },
+  "title": "show title",
+  "description": "<h1>WELCOME</h1><br><p>this is a description, it can be html or plain text</p>",
+  "author": "finn greiter",
+  "copyright": "&copy; 2020 Finn Greiter",
+  "items": [
+    {
+      "title": "test",
+      "description": "this is a test video, the description can be in html or plain text",
+      "rating": "g",
+      "file": "https://finngreiter.github.io/vids/vid01.mp4",
+      "id": "#5d53fc",
+      "season": 1,
+      "episode": 1
+    }
+  ]
+}
